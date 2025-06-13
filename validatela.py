@@ -5,6 +5,7 @@ import cv2
 import numpy as np
 import os
 
+print('Hellow worl')
 NOME_JANELA = "Albion Online Client"
 TEMPLATE_DIR = r"C:\Users\augusto\Documents\albionPy"
 MOBS_DIR = os.path.join(TEMPLATE_DIR, "mobs")
